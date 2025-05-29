@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 What I Do:
-- 💻 **Programming**: C, JavaScript, HTML, CSS
+- 💻 **Programming**:Java, JavaScript, HTML, CSS
 - 🤝 **Teamwork & Soft Skills**  
 - 📊 **Quantitative Reasoning**  
 
