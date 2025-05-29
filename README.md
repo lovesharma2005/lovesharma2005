@@ -35,8 +35,13 @@
 
 ---
 
-## 📈 Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lovesharma2005&show_icons=true&theme=radical)
+## 📈 GitHub Stats:
+
+| Most Used Languages                                                                                      | My GitHub Stats                                                                                     |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovesharma2005&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovesharma2005&show_icons=true&theme=radical) |
+
+---
 
 ---
 ## 🤝 Connect with me:
