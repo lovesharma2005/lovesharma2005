@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Love Sharma
 🌟 **Welcome to my GitHub Profile** 🌟
 
-🎓 A 20-year-old enthusiast pursuing graduation at Bundelkhand University.  
+🎓 A 20-year-old enthusiast pursuing graduation at GLA University.  
 📊 Team Leader of [Master's of Algo](#).  
-🏆 Gold Medalist in Mathematics Olympiad.
 
 ---
 
@@ -26,6 +25,7 @@
 - 🎖️ Secured **9th rank** in Transport Stack Open Innovation Challenge at IIT Delhi - [Certificate](https://drive.google.com/file/d/1xYeogOp0__FAljYx-jBGSpLYFiuQmcVu/view?usp=sharing).
 - 🎉 Reached **Final/Semi-Final rounds** in many company/college hackathons and hiring programs - [Unstop](https://unstop.com/u/lovesha2175).
 - 🌟 Currently in the **Top 150 students** among 2400+ students at my college.
+- 🏆 Gold Medalist in Mathematics Olympiad.
 - 💡 Solved **700+ problems** on DSA across various platforms:  
   - [Leetcode](https://leetcode.com/u/lovesharmaup93/)  
   - [CodeSkiller](https://codeskiller.codingblocks.com/users/356244)  
