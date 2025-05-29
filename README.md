@@ -7,6 +7,7 @@
 
 
 🎓 A 20-year-old enthusiast pursuing graduation at GLA University.
+
 📊 Team Leader of [Master's of Algo].
 
 ---
