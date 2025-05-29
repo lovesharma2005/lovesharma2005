@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Love Sharma</h1>
 <h3 align="center">Developing something crazy🤫</h3>
+<h3 align="center">🌟 **Welcome to my GitHub Profile** 🌟</h3>
 <br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-🌟 **Welcome to my GitHub Profile** 🌟
 
 🎓 A 20-year-old enthusiast pursuing graduation at GLA University.
 📊 Team Leader of [Master's of Algo].
