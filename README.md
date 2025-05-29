@@ -39,6 +39,20 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lovesharma2005&show_icons=true&theme=radical)
 
 ---
-
 ## 🤝 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/love-sharma-26aa48348/) 
+
+<a href="https://linkedin.com/in/love-sharma-26aa48348/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.youtube.co/@lovesharmaup93" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/users/ls8600914" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/love_sharma" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/lovesharmaup93/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
