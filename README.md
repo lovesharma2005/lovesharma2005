@@ -71,5 +71,5 @@
   <img align="center" src="https://your-public-link-to-unstop-icon.png" alt="Unstop" height="30" width="40" />
 </a>
 <a href="https://github.com/lovesharma2005" target="blank">
-  <img align="center" src="https://your-public-link-to-github-icon.png" alt="GitHub" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
