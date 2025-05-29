@@ -61,14 +61,8 @@
 <a href="https://leetcode.com/u/lovesharmaup93/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://codeskiller.codingblocks.com/users/356244" target="blank">
-  <img align="center" src="https://your-public-link-to-codeskiller-icon.png" alt="CodeSkiller" height="30" width="40" />
-</a>
 <a href="https://www.geeksforgeeks.org/user/ls860epys/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
-<a href="https://unstop.com/u/lovesha2175" target="blank">
-  <img align="center" src="https://your-public-link-to-unstop-icon.png" alt="Unstop" height="30" width="40" />
 </a>
 <a href="https://github.com/lovesharma2005" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
